@@ -43,6 +43,7 @@ We evaluated the performance of these models and make a recommendation on whethe
 ### EasyEnsembleClassifier
 
 ![](https://github.com/ysbcode/Credit_Risk_Analysis/blob/main/Screenshots/6_EasyEnsembleAdaBoost1.PNG?raw=true)
+
 ![](https://github.com/ysbcode/Credit_Risk_Analysis/blob/main/Screenshots/6_EasyEnsembleAdaBoost2.PNG?raw=true)
 
 Overall, we can see that the accuracy score for all oversampling and undersampling methods were poor with scores ranging from the low 50 percents to the high 60 percents. Using the ensemble clasifiers improved the accuracy score from approx 90 to the mid 90 percents. However, the precision of the both ensamble models remained poor leading on overall low F1 score for both.
